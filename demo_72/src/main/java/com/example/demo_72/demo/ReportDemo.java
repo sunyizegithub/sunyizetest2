@@ -11,7 +11,7 @@ import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
  * @date 2015年11月1日
  */
 public class ReportDemo {
-	
+	//
 	private String SMS_IP = "127.0.0.1";//安全管理软件通过SDMI_Config下发的安管IP
 	private String SMS_PORT = "80";//安全管理软件通过SDMI_Config下发的安管端口
 	private String SMS_WS_PATH = "/WSSmCommUpper/WSSmCommUpper";//安全管理软件的WebService路径
